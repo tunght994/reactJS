@@ -1,0 +1,15 @@
+$color-white: #fff;
+$color-black: #000;
+$color-primary: #e50914;
+$color-gray: gray;
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: rgb(43, 41, 41);
+}
