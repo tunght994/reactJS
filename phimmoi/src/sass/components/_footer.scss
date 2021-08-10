@@ -1,0 +1,26 @@
+.footer {
+    background-color: #1c1c1c;
+    padding: 40px 0;
+    color: $txt-white;
+
+    &__about{
+        margin-right: 20px;
+        img{
+            margin-bottom: 20px;
+        }
+    }
+
+    &__title{
+        margin-bottom: 20px;
+        font-size: 1.6rem;
+        color: #54ae57;
+    }
+
+    &__content{
+        font-size: 1.2rem;
+        p{
+            margin-bottom: 10px;
+        }
+    }
+
+}
