@@ -1,0 +1,13 @@
+.carousel {
+    &__content {
+        @include flex(flex-start, flex-start);
+        &__baner {
+            display: flex;
+            flex-direction: column;
+            img {
+                width: 300px;
+                height: 146px;
+            }
+        }
+    }
+}
